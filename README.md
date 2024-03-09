@@ -4,9 +4,9 @@ A simple office Networking demo has been implemented using Cisco Packet Tracer t
 
 # Use
 To use this networking demo in Cisco packet Tracer:
-  The Cisco packet Tracer Tool from the Cisco website should be installed
-  Then login with credentials
-  Now You are Good to go to open the .pkt file in Cisco and can modify it according to you
+1)  The Cisco packet Tracer Tool from the Cisco website should be installed
+2)  Then login with credentials
+3)  Now You are Good to go to open the .pkt file in Cisco and can modify it according to you
 
 
   
