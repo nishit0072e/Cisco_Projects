@@ -1,0 +1,6 @@
+#Design a Network in CISCO Packet Tracer to connect 'Accounts' and 'Delivery' departments through the following:
+	a) Each department should contain at least 2 PC.
+	b) Appropriate number of switches and routers should be used in the network.
+	c) using the given network address 192.168.40.0, all interfaes should be configured with appropriate IP address, subnet mask and gateways.
+	d) All devices in the network should be connected using approprite cables.
+	e)Test the connectivity between 'Accounts' and 'Delivery' departments -PCs in 'Delivery' department should be able to ping the PCs in 'Accounts' departments.
