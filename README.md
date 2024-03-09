@@ -2,7 +2,7 @@
 A simple office Networking demo has been implemented using Cisco Packet Tracer to understand the networking topologies and working of corporate networks between machine to machine. 
 
 
-#Use
+# Use
 To use this networking demo in Cisco packet Tracer:
   The Cisco packet Tracer Tool from the Cisco website should be installed
   Then login with credentials
